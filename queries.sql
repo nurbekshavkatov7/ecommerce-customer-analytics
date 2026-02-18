@@ -3,10 +3,6 @@
 -- E-COMMERCE CUSTOMER ANALYTICS PROJECT
 -- Author: Nurbek Shavkatov
 -- Date: February 2026
--- Database: MySQL
--- ============================================
-
-USE ecommerce_project;
 
 -- ============================================
 -- SECTION 1: CUSTOMER SEGMENT ANALYSIS
